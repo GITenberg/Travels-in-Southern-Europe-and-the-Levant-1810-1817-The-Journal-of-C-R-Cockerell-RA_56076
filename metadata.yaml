@@ -1,5 +1,8 @@
 _repo: Travels-in-Southern-Europe-and-the-Levant-1810-1817-The-Journal-of-C-R-Cockerell-RA_56076
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 56076-h/images/cover.jpg
 creator:
   author:
     agent_name: Cockerell, Charles Robert
@@ -10,6 +13,8 @@ creator:
     gutenberg_agent_id: '48659'
     url: http://www.gutenberg.org/2009/agents/48659
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/56076#Travels-in-Southern-Europe-and-the-Levant-1810-1817-The-Journal-of-C-R-Cockerell-RA
 gutenberg_issued: '2017-11-29'
 gutenberg_type: Text
 identifiers:
